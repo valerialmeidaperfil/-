@@ -1,7 +1,27 @@
-h1{
-    font-size: 50px
-    color rgb(69, 144, 230);
-{}
+body {
+    background-color: #FFF0F5; /* Fundo rosa bem suave */
+    color: #4A4A4A; /* Texto cinza escuro delicado */
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    text-align: center;
+    border: 8px solid #FFB6C1; /* Borda rosa fofinha ao redor */
+    border-radius: 20px; /* Cantinhos arredondados */
+    padding: 20px;
+    margin: 20px;
+}
 
-body {}
-background-color
+h1 {
+    font-size: 50px;
+    color: #FF69B4; /* Rosa bem bonito e destacado */
+}
+
+h2 {
+    font-size: 30px;
+    color: #FF8C00; /* Laranja suave para destacar os estilos */
+    margin-top: 40px;
+}
+
+iframe {
+    border-radius: 15px; /* Deixa as bordas dos vídeos arredondadas! */
+    margin: 10px;
+    border: 3px solid #FFC0CB; /* Borda delicada nos vídeos */
+}
